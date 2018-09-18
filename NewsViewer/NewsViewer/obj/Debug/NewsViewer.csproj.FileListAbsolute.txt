@@ -1,0 +1,9 @@
+C:\Users\PKO\Desktop\NewsViewer\NewsViewer\bin\Debug\NewsViewer.exe.config
+C:\Users\PKO\Desktop\NewsViewer\NewsViewer\bin\Debug\NewsViewer.exe
+C:\Users\PKO\Desktop\NewsViewer\NewsViewer\bin\Debug\NewsViewer.pdb
+C:\Users\PKO\Desktop\NewsViewer\NewsViewer\obj\Debug\NewsViewer.csprojResolveAssemblyReference.cache
+C:\Users\PKO\Desktop\NewsViewer\NewsViewer\obj\Debug\NewsViewer.Form1.resources
+C:\Users\PKO\Desktop\NewsViewer\NewsViewer\obj\Debug\NewsViewer.Properties.Resources.resources
+C:\Users\PKO\Desktop\NewsViewer\NewsViewer\obj\Debug\NewsViewer.csproj.GenerateResource.Cache
+C:\Users\PKO\Desktop\NewsViewer\NewsViewer\obj\Debug\NewsViewer.exe
+C:\Users\PKO\Desktop\NewsViewer\NewsViewer\obj\Debug\NewsViewer.pdb
